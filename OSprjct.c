@@ -21,11 +21,11 @@ int main()
   
   printf("\n\t              ********************* PROJECT ON SCHEDULING ALGORITHMS ***********************\n");
   
-  printf("\n Applying ROUND ROBIN ALGORITHM to the whole System Q1 , Q2 and Q3 (with Q1 time = 10) \n");
+  printf("\n Applying ROUND ROBIN ALGORITHM to the whole System Q1 , Q2 and Q3 (with Quantum time = 10) \n");
   
   printf("\n Priority Range For Queues are given by : \n");
   
-  printf("\n \tQ1 : 21 - 30 \t");  printf("(Round Robin Algorithm) => (with Q1 time = 4) \n");
+  printf("\n \tQ1 : 21 - 30 \t");  printf("(Round Robin Algorithm) => (with Quantum time = 4) \n");
   printf("\n \tQ2 : 11 - 20 \t");  printf("(prior Algorithm) \n");
   printf("\n \tQ3 : 1 - 10 \t");   printf("(First come First Serve Algorithm) \n");
   printf("\n===============================================================================\n");
