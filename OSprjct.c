@@ -26,7 +26,7 @@ int main()
   printf("\n Priority Range For Queues are given by : \n");
   
   printf("\n \tQ1 : 21 - 30 \t");  printf("(Round Robin Algorithm) => (with Quantum time = 4) \n");
-  printf("\n \tQ2 : 11 - 20 \t");  printf("(prior Algorithm) \n");
+  printf("\n \tQ2 : 11 - 20 \t");  printf("(Priority Algorithm) \n");
   printf("\n \tQ3 : 1 - 10 \t");   printf("(First come First Serve Algorithm) \n");
   printf("\n===============================================================================\n");
   
